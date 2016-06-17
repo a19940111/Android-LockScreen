@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="getLockDeviceAdmin">获取管理者权限</string>
+    <string name="CancelDeviceLockAdmin">取消管理者权限</string>
+    <string name="LockScreen">锁屏</string>
+    <string name="LockScreenConfiguration">一键锁屏配置</string>
+</resources>
